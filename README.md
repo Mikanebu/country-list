@@ -1,4 +1,8 @@
-# [![AVA](https://avatars2.githubusercontent.com/u/1643515?s=200&v=4)](https://github.com/datasets)
+<p align="center">
+  <a href="https://github.com/datasets">
+    <img alt="datasets" src="https://avatars2.githubusercontent.com/u/1643515?s=200&v=4" width="146">
+  </a>
+</p>
 
 > Important, commonly-used datasets in high quality, easy-to-use & open form as data packages
 
